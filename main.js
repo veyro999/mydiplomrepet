@@ -245,7 +245,7 @@
         formData.append("_captcha", "false");
         formData.append("_template", "table");
 
-        const response = await fetch("https://formsubmit.co/ajax/egor.iva.work@gmail.com", {
+        const response = await fetch("https://formsubmit.co/ajax/mllawulis@gmail.com", {
           method: "POST",
           headers: {
             Accept: "application/json"
